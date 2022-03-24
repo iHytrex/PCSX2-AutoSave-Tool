@@ -105,7 +105,7 @@ namespace PCSX2_AUTO_SAVER
                     }
 
                     Console.WriteLine("Sleeping Thread!");
-                    Thread.Sleep((int)numericUpDown1.Value * 3000);
+                    Thread.Sleep((int)numericUpDown1.Value * 60000);
 
                     if (_canExitThread)
                     {
