@@ -1,4 +1,4 @@
-**PCSX2 AutoSave Tool**
+#**PCSX2 AutoSave Tool**
 
 
 **What is this?** A Windows only tool for PCSX2 that generate sstates at user-specified intervals.
